@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/EB Garamond Medium 500.ttf",
+      "sha1": "a33503b3d447776fe3268fd057f4ddf016594658"
+    },
+    {
+      "path": "assets/fonts/FiraCode-Regular.ttf",
+      "sha1": "85e2f3d6fb86f43adccd266a8ad0675978a01975"
+    },
+    {
+      "path": "assets/fonts/Inconsolata-Regular.ttf",
+      "sha1": "5236122ed33eacc57aa314cedbb46ff31b1a52a2"
+    },
+    {
+      "path": "assets/fonts/Raleway-Medium.ttf",
+      "sha1": "9d35f805e98f95e72f5d0a4ced7397584d7349be"
+    }
+  ]
+}
